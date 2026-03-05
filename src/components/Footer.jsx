@@ -47,14 +47,6 @@ export default function Footer({ setPage }) {
           ))}
         </div>
 
-        <div className="border-t border-white/10 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <p className="text-gray-600 text-sm">
-            © 2026 QPICK. All rights reserved.
-          </p>
-          <p className="text-gray-600 text-sm">
-            Built with React + Tailwind CSS
-          </p>
-        </div>
       </div>
     </footer>
   );
